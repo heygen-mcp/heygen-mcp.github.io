@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://heygen-mcp.github.io/sitemap.xml
