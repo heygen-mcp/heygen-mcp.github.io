@@ -18,3 +18,5 @@ HeyGen is the serious option for talking-head avatar video, and its own homepage
 ---
 
 *An independent page, not affiliated with or endorsed by HeyGen; all trademarks are the property of their respective owners.*
+
+_Last reviewed: 2026-09-22_
